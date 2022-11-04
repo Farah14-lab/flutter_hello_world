@@ -3,6 +3,8 @@ Absen : 12</br>
 
 Hasil Screenshot </br>
 ![first_project](images/gambar.png) </br>
+![first_project](images/gambar2.jpeg) </br>
+![first_project](images/gambar3.jpeg) </br>
 
 # first_project
 
